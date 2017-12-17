@@ -1,2 +1,2 @@
 # Challenge03
-Morpion en JS
+Morpion en full JAVASCRIPT
